@@ -1,0 +1,63 @@
+/**** Patricia Menendez version
+
+
+
+/* Additional colors
+****/
+
+.purple {color: #800080;}
+.orange {color: #b06500;}
+.purple2 {color: #f2e5f2;}
+.green {color: #9F9F5F;}
+
+
+/******************
+ * 
+ * Coloured content boxes
+ *
+ ****************/
+
+
+.content-box { 
+    box-sizing: content-box;
+    	background-color: #e2e2e2;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+
+.content-box-blue,
+.content-box-gray,
+.content-box-grey,
+.content-box-neutral,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow {
+    border-radius: 15px;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.content-box-neutral {
+  background-color: #f0f5f2;
+}
+
+.content-box-soft {
+  background-color:#FFFDE7;
+}
+
+
+.remark-code {
+  display: block;
+  overflow-x: auto;
+  padding: .5em;
+  color: #800080;
+  background-color: #fcf5fc;
+}
+

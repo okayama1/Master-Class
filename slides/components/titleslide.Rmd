@@ -1,0 +1,23 @@
+
+background-image: url(`r rmarkdown::metadata$bgimg`)
+background-size: cover
+class: hide-slide-number split-100 title-slide
+count: false
+
+
+
+
+
+
+
+<svg class="clip-svg absolute">
+<defs>
+<clipPath id="swipe__clip-path" clipPathUnits="objectBoundingBox">
+<polygon points="0.5745 0, 0.5 0.33, 0.42 0, 0 0, 0 1, 0.27 1, 0.27 0.59, 0.37 1, 0.634 1, 0.736 0.59, 0.736 1, 1 1, 1 0, 0.5745 0" />
+</clipPath>
+</defs>	
+</svg>
+</div>
+</div>
+
+
