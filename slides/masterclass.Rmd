@@ -138,7 +138,7 @@ methods"*
 <br>
 
 Patricia Menéndez
-```{r out.width = '35%', echo = FALSE}
+```{r out.width = '28%', echo = FALSE}
 include_graphics("images/hiclipart2.png")
 ```
 .small[
@@ -222,7 +222,7 @@ Cartoon by Hiclipart.com
 ]
 
 .pull-right[
-```{r out.width = '25%', echo = FALSE}
+```{r out.width = '22%', echo = FALSE}
 include_graphics("images/softskills.png")
 ```
 
